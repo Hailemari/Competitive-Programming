@@ -6,3 +6,5 @@ class Solution:
             ls.pop(i)
         return ls[0]
 
+    
+
