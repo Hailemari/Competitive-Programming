@@ -6,3 +6,4 @@ def isPowerOfThree(self, n):
     if n == 1:
         return True
     return False
+    
